@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/IRAI24/leetcode_problems/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/IRAI24/leetcode_problems/tree/master/0078-subsets) |
 | [0220-contains-duplicate-iii](https://github.com/IRAI24/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/IRAI24/leetcode_problems/tree/master/0239-sliding-window-maximum) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/IRAI24/leetcode_problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/IRAI24/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0518-coin-change-ii](https://github.com/IRAI24/leetcode_problems/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/IRAI24/leetcode_problems/tree/master/1013-fibonacci-number) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/IRAI24/leetcode_problems/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/IRAI24/leetcode_problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
