@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/IRAI24/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/IRAI24/leetcode_problems/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/IRAI24/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/IRAI24/leetcode_problems/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/IRAI24/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/IRAI24/leetcode_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/IRAI24/leetcode_problems/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IRAI24/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
