@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/IRAI24/leetcode_problems/tree/master/0518-coin-change-ii) |
+| [0878-shifting-letters](https://github.com/IRAI24/leetcode_problems/tree/master/0878-shifting-letters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/IRAI24/leetcode_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## String
+|  |
+| ------- |
+| [0878-shifting-letters](https://github.com/IRAI24/leetcode_problems/tree/master/0878-shifting-letters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0878-shifting-letters](https://github.com/IRAI24/leetcode_problems/tree/master/0878-shifting-letters) |
 <!---LeetCode Topics End-->
