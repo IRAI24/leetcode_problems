@@ -16,6 +16,7 @@
 class Solution {
     int c=0;
     int res=0;
+    
 
     public int kthSmallest(TreeNode root, int k) {
         
@@ -26,7 +27,7 @@ class Solution {
     }
      void inorder(TreeNode root ,int k)
     {
-        if(root==null) return;
+        if(root==null || res!=0) return;
         inorder(root.left,k);
         c++;
         if (c==k) {
