@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/IRAI24/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/IRAI24/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IRAI24/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/IRAI24/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/IRAI24/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/IRAI24/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/IRAI24/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/IRAI24/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/IRAI24/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/IRAI24/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IRAI24/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/IRAI24/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/IRAI24/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/IRAI24/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Sorting
 |  |
