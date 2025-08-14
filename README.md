@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/IRAI24/leetcode_problems/tree/master/0878-shifting-letters) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/IRAI24/leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
