@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/IRAI24/leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0415-add-strings](https://github.com/IRAI24/leetcode_problems/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/IRAI24/leetcode_problems/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/IRAI24/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/IRAI24/leetcode_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/IRAI24/leetcode_problems/tree/master/0415-add-strings) |
 | [0878-shifting-letters](https://github.com/IRAI24/leetcode_problems/tree/master/0878-shifting-letters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/IRAI24/leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Prefix Sum
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/IRAI24/leetcode_problems/tree/master/0415-add-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/IRAI24/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
