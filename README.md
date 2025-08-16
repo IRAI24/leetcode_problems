@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/IRAI24/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/IRAI24/leetcode_problems/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/IRAI24/leetcode_problems/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/IRAI24/leetcode_problems/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/IRAI24/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/IRAI24/leetcode_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/IRAI24/leetcode_problems/tree/master/0055-jump-game) |
+| [1448-maximum-69-number](https://github.com/IRAI24/leetcode_problems/tree/master/1448-maximum-69-number) |
 ## Hash Table
 |  |
 | ------- |
