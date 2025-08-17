@@ -189,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/3799-unique-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/IRAI24/leetcode_problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
