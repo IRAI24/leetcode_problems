@@ -8,8 +8,9 @@ class Solution {
             int cur=(n/base)%10;
             int rt=n%base;
             if(cur<1)sum+=lt*base;
-            else if(cur>1)sum+=(lt+1)*base;
             else if(cur==1)sum+=lt*base+rt+1;
+            else if(cur>1)sum+=(lt+1)*base;
+            
             base*=10;
         }
         return sum;
