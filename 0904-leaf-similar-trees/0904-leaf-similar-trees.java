@@ -20,8 +20,7 @@ class Solution {
         int s2=0;int s1=0;
         dfs(root1,l1);
         dfs(root2,l2);
-        System.out.println(l1);
-        System.out.println(l2);
+       
         return l1.equals(l2);
     }
     private static void dfs(TreeNode root,List<Integer> l1)
