@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/IRAI24/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/IRAI24/leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0233-number-of-digit-one](https://github.com/IRAI24/leetcode_problems/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/IRAI24/leetcode_problems/tree/master/1013-fibonacci-number) |
+| [2573-remove-nodes-from-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/IRAI24/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/IRAI24/leetcode_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/3799-unique-3-digit-even-numbers) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/IRAI24/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -208,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
