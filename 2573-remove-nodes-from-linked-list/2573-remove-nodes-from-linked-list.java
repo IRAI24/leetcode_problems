@@ -18,7 +18,7 @@ class Solution {
             st.push(temp);
             temp=temp.next;
         }
-        System.out.println(st);
+        
         ListNode t2=null;
         while(!st.isEmpty())
         {
