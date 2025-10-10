@@ -16,12 +16,10 @@ class Solution {
         {
             int a=temp.val;
             int b=temp.next.val;
-            int min=Math.min(a,b);int m=0;
             
-            for(int i=min+1;i>=1;i--)
-            {
-                if(a%i==0 && b%i==0) {m=i;break;}
-            }
+            int m=gcd(a,b);
+            
+            
             
             ListNode n=new ListNode(m);
             ListNode t1=temp.next;
@@ -31,5 +29,16 @@ class Solution {
             n.next=t1;
         }
         return head;
+    }
+
+    private int gcd(int a,int b)
+    {
+        while(b!=0)
+        {
+            int t=a%b;
+            a=b;
+            b=t;
+        }
+        return a;
     }
 }
