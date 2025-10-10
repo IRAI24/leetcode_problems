@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/IRAI24/leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0518-coin-change-ii](https://github.com/IRAI24/leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0878-shifting-letters](https://github.com/IRAI24/leetcode_problems/tree/master/0878-shifting-letters) |
+| [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/IRAI24/leetcode_problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Dynamic Programming
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/IRAI24/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/IRAI24/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/IRAI24/leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IRAI24/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/IRAI24/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/IRAI24/leetcode_problems/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/IRAI24/leetcode_problems/tree/master/0584-find-customer-referee) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
