@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/IRAI24/leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0878-shifting-letters](https://github.com/IRAI24/leetcode_problems/tree/master/0878-shifting-letters) |
 | [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/IRAI24/leetcode_problems/tree/master/2411-spiral-matrix-iv) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/IRAI24/leetcode_problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Dynamic Programming
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/IRAI24/leetcode_problems/tree/master/0415-add-strings) |
+| [2411-spiral-matrix-iv](https://github.com/IRAI24/leetcode_problems/tree/master/2411-spiral-matrix-iv) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/IRAI24/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/IRAI24/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/IRAI24/leetcode_problems/tree/master/2411-spiral-matrix-iv) |
 | [2573-remove-nodes-from-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/IRAI24/leetcode_problems/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
