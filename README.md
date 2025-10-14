@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/IRAI24/leetcode_problems/tree/master/0878-shifting-letters) |
 | [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/IRAI24/leetcode_problems/tree/master/2411-spiral-matrix-iv) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/IRAI24/leetcode_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/IRAI24/leetcode_problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Dynamic Programming
