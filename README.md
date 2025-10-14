@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/IRAI24/leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0878-shifting-letters](https://github.com/IRAI24/leetcode_problems/tree/master/0878-shifting-letters) |
 | [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/IRAI24/leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2411-spiral-matrix-iv](https://github.com/IRAI24/leetcode_problems/tree/master/2411-spiral-matrix-iv) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/IRAI24/leetcode_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/3799-unique-3-digit-even-numbers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/IRAI24/leetcode_problems/tree/master/0415-add-strings) |
 | [0878-shifting-letters](https://github.com/IRAI24/leetcode_problems/tree/master/0878-shifting-letters) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/IRAI24/leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/IRAI24/leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Prefix Sum
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/IRAI24/leetcode_problems/tree/master/0220-contains-duplicate-iii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/IRAI24/leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/IRAI24/leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Database
 |  |
