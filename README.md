@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/IRAI24/leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2411-spiral-matrix-iv](https://github.com/IRAI24/leetcode_problems/tree/master/2411-spiral-matrix-iv) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/IRAI24/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/IRAI24/leetcode_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/IRAI24/leetcode_problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/IRAI24/leetcode_problems/tree/master/0878-shifting-letters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/IRAI24/leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/IRAI24/leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/IRAI24/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -240,4 +242,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/IRAI24/leetcode_problems/tree/master/2411-spiral-matrix-iv) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/IRAI24/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/IRAI24/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/IRAI24/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/IRAI24/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
