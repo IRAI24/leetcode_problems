@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/IRAI24/leetcode_problems/tree/master/2411-spiral-matrix-iv) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/IRAI24/leetcode_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/3799-unique-3-digit-even-numbers) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/IRAI24/leetcode_problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/IRAI24/leetcode_problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Dynamic Programming
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/IRAI24/leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/IRAI24/leetcode_problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
 |  |
 | ------- |
@@ -207,11 +209,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/IRAI24/leetcode_problems/tree/master/0055-jump-game) |
 | [1448-maximum-69-number](https://github.com/IRAI24/leetcode_problems/tree/master/1448-maximum-69-number) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/IRAI24/leetcode_problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/IRAI24/leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/3799-unique-3-digit-even-numbers) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/IRAI24/leetcode_problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Database
 |  |
 | ------- |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/IRAI24/leetcode_problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
 | ------- |
