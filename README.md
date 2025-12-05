@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/IRAI24/leetcode_problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2411-spiral-matrix-iv](https://github.com/IRAI24/leetcode_problems/tree/master/2411-spiral-matrix-iv) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/IRAI24/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/IRAI24/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/IRAI24/leetcode_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IRAI24/leetcode_problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/IRAI24/leetcode_problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/IRAI24/leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/IRAI24/leetcode_problems/tree/master/1448-maximum-69-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/IRAI24/leetcode_problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/IRAI24/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/IRAI24/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/IRAI24/leetcode_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/IRAI24/leetcode_problems/tree/master/0878-shifting-letters) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/IRAI24/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Enumeration
 |  |
 | ------- |
